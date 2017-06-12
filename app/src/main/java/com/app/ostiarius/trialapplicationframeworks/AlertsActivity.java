@@ -12,6 +12,6 @@ public class AlertsActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-//        setContentView(R.layout.alert_layout);
+//        setContentView(R.layout.alert_layout);ssss
     }
 }

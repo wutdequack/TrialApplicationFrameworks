@@ -13,5 +13,6 @@ public class AlertsActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 //        setContentView(R.layout.alert_layout);ssss
+        // hello stanley
     }
 }
